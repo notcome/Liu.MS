@@ -6,10 +6,10 @@ I am currently a first-year undergraduate student at University of California,
 San Diego. You could reach me through a variety of ways.
 
 ## E-mail
-I own the domain name [liu.ms](http://liu.ms), which is a combination of my
-family name “liu”「刘」and my given name "min sheng"「闽晟」. Practically, any
-address at this domain should reach my mailbox, but I prefer the following two
-addresses to be used:
+I own this domain name [liu.ms](http://liu.ms) a combination of my family name
+“liu”「刘」and my given name "min sheng"「闽晟」. Practically, any address at this
+domain should reach my mailbox, but I prefer people choosing to the following
+addresses based on the accompanying descriptions:
 
 - ``lambda`` at this domain, for all computer science/programming related
 things.
