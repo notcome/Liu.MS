@@ -7,7 +7,7 @@ San Diego. You could reach me through a variety of ways.
 
 ## E-mail
 I own this domain name [liu.ms](http://liu.ms) a combination of my family name
-“liu”「刘」and my given name "min sheng"「闽晟」. Practically, any address at this
+_liu_「刘」and my given name _min sheng_「闽晟」. Practically, any address at this
 domain should reach my mailbox, but I prefer people choosing to the following
 addresses based on the accompanying descriptions:
 
@@ -16,9 +16,9 @@ things.
 - ``i`` at this domain, for all personal things.
 - ``hi`` at this domain, for general things.
 
-If you think you are __not very close to me__, please use the third address.
+Note that the second address is reserved to my friends and family.
 
-Alternatively, you can always reach me using the email arranged by UCSD, which
+Alternatively, you can always reach me using the address arranged by UCSD, which
 is ``minsheng`` at you know where.
 
 ## Online Services
